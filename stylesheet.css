@@ -32,6 +32,9 @@ a {
   color: black;
 }
 
+.logo-main{
+  width: 750px;
+}
 
 header {
   height: 65px;
@@ -182,11 +185,19 @@ footer {
   .heading h2 {
     font-size: 20px;
   }
+  
+  .logo-main{
+  width: 670px;
+}
 }
 
 @media all and (max-width: 670px) {
   .header-right {
     display: none;
+  }
+  
+  .logo-main{
+  width: 500px;
   }
 
   .menu-icon {
