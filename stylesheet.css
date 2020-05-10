@@ -166,14 +166,6 @@ footer {
     width: 50%;
     margin-bottom: 50px;
   }
-
-  .text-contents {
-  width:80%;
-  display: inline-block;
-  margin-top: 15px;
-  font-size: 13px;
-  color: #b3aeb5;
-　}
   
   .lesson-wrapper {
     height: 990px;
@@ -192,14 +184,6 @@ footer {
     width: 50%;
     margin-bottom: 50px;
   }
-  
-  .text-contents {
-  width:80%;
-  display: inline-block;
-  margin-top: 15px;
-  font-size: 13px;
-  color: #b3aeb5;
-　}
   
   .top-wrapper h1 {
     font-size: 32px;
