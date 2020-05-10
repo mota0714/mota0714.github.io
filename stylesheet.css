@@ -165,10 +165,8 @@ footer {
 
 @media all and (max-width: 1000px) {
   .lesson {
-    width: 50%;
+    width: 45%;
     margin-bottom: 50px;
-    float: left;
-    display: inline-block;
   }
 
   .lesson-wrapper {
@@ -185,10 +183,8 @@ footer {
 
 @media all and (max-width: 750px) {
   .lesson {
-    width: 50%;
+    width: 45%;
     margin-bottom: 50px;
-    float: left;
-    display: inline-block;
   }
   
   .top-wrapper h1 {
