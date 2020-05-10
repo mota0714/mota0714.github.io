@@ -175,9 +175,17 @@ footer {
   footer {
     text-align: center;
   }
+　.logo-main{
+  width: 750px;
+  }
 }
 
 @media all and (max-width: 750px) {
+  .lesson {
+    width: 50%;
+    margin-bottom: 50px;
+  }
+  
   .top-wrapper h1 {
     font-size: 32px;
   }
@@ -206,10 +214,6 @@ footer {
 
   .top-wrapper .btn {
     width: 100%;
-  }
-
-  .twitter {
-    margin-top: 10px;
   }
 
   .top-wrapper {
