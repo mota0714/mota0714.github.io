@@ -75,8 +75,6 @@ header {
 .lesson-wrapper {
   height: px;
   padding-bottom: 80px;
-  padding-left: 5%;
-  padding-right: 5%;
   background-color: #f7f7f7;
   text-align: center;
 }
@@ -165,7 +163,7 @@ footer {
 
 @media all and (max-width: 1000px) {
   .lesson {
-    width: 45%;
+    width: 50%;
     margin-bottom: 50px;
   }
 
@@ -183,7 +181,7 @@ footer {
 
 @media all and (max-width: 750px) {
   .lesson {
-    width: 45%;
+    width: 50%;
     margin-bottom: 50px;
   }
   
